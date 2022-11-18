@@ -4,9 +4,7 @@
 #include "Blueprint/UserWidget.h"
 #include "Menu.generated.h"
 
-/**
- * 
- */
+
 UCLASS()
 class MULTIPLAYERSESSIONS_API UMenu : public UUserWidget
 {
